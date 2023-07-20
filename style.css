@@ -1,0 +1,94 @@
+.face{
+    height: 200px;
+    width:200px;
+    display: flex;
+    position: relative;
+}
+.ear{
+    position: absolute;
+    background-color: pink;
+    border: 1px solid black;
+    margin-top: 13%;
+    margin-left: 6%;
+    border-radius: 50% 50% 0 0;
+    height: 25%;
+    width: 30%;
+}
+.ear1{
+    position: absolute;
+    background-color: pink;
+    border: 1px solid black;
+    margin-top: 13%;
+    margin-left: 49%;
+    border-radius: 50% 50% 0 0;
+    height: 25%;
+    width: 30%;
+}
+.face1{
+    background-color: pink;
+    border: 1px solid black;
+    position: absolute;
+    margin-top: 20%;
+    height: 80%;
+    width: 85%;
+    border-radius: 50%;
+}
+.eyes{
+    position:absolute;
+    height: 25%;
+    margin-left: 14%;
+    margin-top: 18%;
+    width: 72%;
+}
+.leye{
+    position:absolute;
+    background-color: white;
+    height: 100%;
+    width: 35%;
+    border-radius: 50%;
+}
+.reye{
+    position:absolute;
+    background-color: white;
+    height: 100%;
+    width: 35%;
+    margin-left: 65%;
+    border-radius: 50%;
+}
+.beye{
+    position: absolute;
+    background-color: black;
+    height: 50%;
+    width: 50%;
+    border-radius: 50%;
+    margin-top:25%;
+    margin-left: 25%;
+}
+.nose{
+    position: absolute;
+    background-color: red;
+    border: 1px solid black;
+    height: 23%;
+    width: 46%;
+    border-radius: 20px;
+    margin-top: 55%;
+    margin-left: 27%;
+}
+.n1{
+    position: absolute;
+    background-color: black;
+    height: 55%;
+    width: 28%;
+    border-radius: 50%;
+    margin-top: 11%;
+    margin-left: 10%;
+}
+.n2{
+    position: absolute;
+    background-color: black;
+    height: 55%;
+    width: 28%;
+    border-radius: 50%;
+    margin-top: 11%;
+    margin-left: 60%;
+}
